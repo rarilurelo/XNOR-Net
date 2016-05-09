@@ -1,0 +1,6 @@
+*.pyc
+*.pkl
+*.gz
+*.swp
+*.pdf
+*.dot
